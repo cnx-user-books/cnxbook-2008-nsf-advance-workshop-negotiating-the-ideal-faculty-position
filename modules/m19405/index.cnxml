@@ -1,0 +1,223 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Drezek Lab Expectations</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m19405</md:content-id>
+  <md:title>Drezek Lab Expectations</md:title>
+  <md:abstract>This handout is from Rebekah Drezek's workshop entitles "Building Your Lab: Transitioning to Independence" and is an example of the expectations she holds for her lab members.</md:abstract>
+  <md:uuid>d63bce5f-dea7-42ae-96fc-ba8d8f93e3a6</md:uuid>
+</metadata>
+  <content>
+    
+    <para id="id18522730">This document is intended to describe my laboratory policies. If you have any questions about any of the information contained in this document, please do not hesitate to ask. I anticipate that you will find the lab to be a relaxed, supportive environment which enables you to develop into a productive and independent research scientist at your own rate. However, like any work place, there are certain rules which must be observed to ensure we all have a safe and effective working environment. Although I do not expect any major problems, failure to abide by the lab policies outlines here are grounds for dismissal from the lab. By accepting your first pay check from laboratory funds (January of the first year of graduate school), you are agreeing to follow our laboratory rules and signifying that you have completed all Rice required IRB and safety classes.</para>
+    <para id="id18659394">The information presented is designed primarily for PhD Students within the Department of Bioengineering but much is applicable to undergraduates, graduate students from other departments, and postdoctoral fellows working in the laboratory. Please email me any suggestions you have towards improving this document.</para>
+    <para id="id3251658">The information is arranged alphabetically by topic.</para>
+
+    <para id="id18642314"><title>Backups</title>
+All lab members are expected to backup their desktop/laptop computer once a week. Generally, this should be accomplished by creating a folder on the computer where you store all lab related work and backing that folder up to a CD/USB/hard drive once a week. If you are involved in a computationally intensive project where large amounts of data are created, you can setup an automatic backup system for your computer as an alternative. I have had good experiences with the CMS ABSplus backup solutions. Also, Mac computers OSX-Leopard have a program called Time Machine which will automatically back up your computer to an external hard drive.</para>
+
+    <para id="id14328528"><title>Books</title>
+Books owned by the laboratory are not to be removed. Please Xerox the chapters you are interested in rather than taking home books. Feel free to borrow any books or articles you want from Dr. Drezek’s library. You may check out books from the lab library in office GRB E103. Please sign out in the lab library binder when checking out books. Return original copies of articles or books as soon as possible.</para>
+    
+    <para id="id18180934"><title>Chemicals</title>If you receive an incoming order of anything with a chemical nature, it is your responsibility to label the bottle with the date of arrival, to check its storage requirements and store in an appropriate manner, and to place the MSDS sheet for the chemical in our laboratory MSDS binder. If you make any solution in the lab no matter how simple, you must label the container with your name, date, and what is in the container. Do not store food in the chemical refrigerators under any circumstances.</para>
+
+    <para id="id4001501"><title>Code</title>
+Most graduate students will create code while working in the lab. Code you write while employed in the lab belongs to the lab and needs to be documented so that others can use the code after you graduate. </para>
+
+    <para id="id4148805"><title>Copy Code</title>
+The code for the copy machine in the BIOE office is 99990. To operate the copier, enter the code. See the Handbook of Procedures for a detailed description on how to send copies to a PDF in email. The copier is to be used for research purposes only.</para>
+
+    <para id="id18080912"><title>Coursework</title>
+Due to the multidisciplinary nature of our laboratory, you are free to pick any of the three tracks within the department. Recommended courses include:
+<list id="courseworklist" list-type="bulleted">
+    <item>BIOE 383 Instrumentation (only if you are completing Track III)</item>
+    <item>BIOE 584 Lasers in Bioengineering</item>
+    <item>ELEC 463 Lasers and Photonics</item>
+    <item>ELEC 465 Physical Electronics Practicum (hands on optics experience)</item>
+    <item>ELEC 560 Integrated and Fiber Optics</item>
+    <item>ELEC 568 Laser Spectroscopy</item>
+    <item>ELEC 603 Nano-optics</item>
+</list>
+</para>
+    <para id="id18462028">Beginning January 1 of your first year, you are employed full-time to work on a specific funded research project. Please make sure that you do not schedule a course load so heavy that it interferes with your commitment to full-time research. In general, this means most students should restrict their coursework to three classes at a time. However, highly motivated first year students are able to take more than three courses while simultaneously working full-time on their research projects. I strongly recommend talking to graduate students who have already taken courses to learn about the work levels required for different courses and to develop a balanced schedule which allows completion of both coursework and research requirements. </para>
+
+    <para id="id8406874"><title>Fax</title>
+The fax machine is to be used for research purposes only. Incoming faxes should be directed to (713) 348-5877. </para>
+    <para id="id14949728">Make a long distance fax in the BioE office dial: 9 + 1 + area code and number</para>
+    <para id="id5031305">Make an international fax in the BioE office dial: 9 + 0 + 11 + country code + number</para>
+
+    <para id="id17097920"><title>Funding</title>
+A large portion of my job as PI is to obtain the necessary funding to keep the lab running. The typical cost to a grant to pay for a graduate student’s stipend and tuition for a 4-5 year PhD is $150,000-$200,000 (or per year, $20K stipend + $8K tuition + $10K overhead). Graduate students are encouraged to apply for any outside fellowships for which they are eligible and will be nominated for IGERT or NIH traineeships if they meet the requirements for this program. If you are successful in obtaining outside fellowships (for instance, Whitaker, NSF, HHMI, etc.), your fellowship stipend will be supplemented by additional laboratory funds to the amount allowed by Rice. Financial support for five years is guaranteed *provided* satisfactory progress (in my opinion) is made towards a PhD. Many students should be able to complete their PhD degree within four years. </para>
+
+    <para id="id18523366"><title>Human Subjects</title>
+Because work in our laboratory involves human subjects, all graduate students must complete Rice’s online human subject training during their first week in the laboratory (prior to receiving first paycheck). </para>
+
+    <para id="id18749023"><title>Lab Duties</title>All lab members will be assigned roles required for the laboratory to function. Students are free to switch roles with other group members if both members agree. I need to be informed of any such changes immediately.
+
+    <list id="id15049035" list-type="bulleted">
+<item><label>Current lab duties and assignments include</label>
+
+<list id="currentlablist" list-type="bulleted">
+    <item><label>Lab Safety Officer</label> (Jiantang Sun) - responsible for ensuring all lab members have completed necessary safety courses and are working in the lab according to Rice established safety procedures; responsible for keeping a copy of our lab protocol notebooks; responsible for checking once per week that there are no unlabeled or undated containers in the lab; reorders any required lab safety items; also lab clean up coordinator</item>
+    <item><label>New Member Orientation</label> (Marlena) - first contact for new lab members; explains the process for getting keys, lab policies, and ordering procedures (all entry and exit procedures for lab members)</item>
+    <item><label>Computer Liaison</label> (Ying) - contact person for Rice IT services; all requests for IP addresses, additions to our group, adding computers to our network, etc. go through the Computer Liaison; responsible for ensuring that all computers are running virus=checking software at all times; borrows CDs for Rice owned software (for instance, MATLAB) from Rice Engineering IT as required; manages computers/softwares/printers. </item>
+    <item><label>Web Lab</label> (Nastassja and Lissett) - contact person(s) for web lab</item>
+    <item><label>Optics Lab</label> (Vengadesan) - contact person for Optics lab and fluorologs</item>
+    <item><label>Lab Website</label> (Ben and Siva) - maintains and updates lab website</item>
+    <item><label>Lab Tour Coordinator</label> (Nastassja)</item>
+    <item><label>Lab Administrative Duties</label> (Marlena)</item>
+    <item>In addition to the duties listed above, each lab member will be responsible for one or more pieces of major equipment in the laboratory.</item>
+</list>
+</item>
+
+    <item><label>Current equipment responsibilties (maintenance, repair, and training) include</label>
+    <list id="currentequiplist" list-type="bulleted">
+<item>Maintenance should be equally shared among ALL users of a piece of equipment. It is the person in charge's job to coordinate maintenance/cleaning/etc but not to do it all themselves.</item>
+    <item>Goniometer, Spectrophotometer, MilliQ, centrifuges, rotovap (Ying)</item>
+    <item>Zeiss (E107), Cytoviva, Cryostat, cell culture hood, incubator (Lissett)</item>
+    <item>Zeiss (E101) (Ramsey is in charge of the Zeiss for now), Glove Box, fume hoods (Nastassja)</item>
+    <item>Fluorologs (E101) Venky</item>
+    <item>OCT, reflectance spectrometers, confocal (Venky)</item>
+    <item>Maestro, freezer/refrigerators (Jiantang)</item>
+    <item>Tissue slicer (Ben)</item>
+    <item>Other optical components (need to organize filters and lenses so we know what we’ve got) (Cheng)</item>
+</list>
+</item>
+</list></para>
+
+
+    <para id="id18524990"><title>Lab Notebooks</title>
+All graduate students must maintain a lab notebook. Your laboratory notebook belongs to the lab and should be organized enough that other lab members can duplicate described procedures. It is absolutely essential that every entry in your lab notebook is dated. Lab members are expected to be familiar with Rice’s policies on intellectual property. Protecting Rice’s intellectual property interests is one of the responsibilities of the PI. </para>
+
+    <para id="id7431936"><title>Literature</title>
+Graduate students are expected to keep up to date with the current literature in our area. Each student will be assigned a few journals. Students will be responsible for watching these journals for articles in biophotonics and each month acquiring copies of articles for our lab database. We also have a lab database for EndNotes online. Please see myendnoteweb.com to login and access this database. </para>
+
+    <para id="id10643340"><title>Long Distance (and International) Phone Calls</title>
+Our laboratory long distance (FAC code) code is 3723386745. The code is to be used for research purposes only. </para>
+    <para id="id16284391">To make long distance calls:
+    <list id="id15555880" list-type="enumerated"><item>Dial 8 + 9 + 1 + area code and number</item></list></para>
+    <para id="id18041790">To make international calls:
+    <list id="id18414309" list-type="enumerated">
+      <item>Dial 9 + 0 + 11 + country code + city code + number</item>
+      <item>After hearing the rapid beeping sound, Dial the FAC code: 3723386745</item>
+      <item>Your call should be connected</item>
+    </list></para>
+
+    <para id="id18411570">When a company offers both a 1 800 number and a long distance number please call the 1 800 number first.</para>
+
+    <para id="id17040730"><title>Meetings</title>
+We will have weekly lab meetings. Attendance is required for all meetings for all graduate students. Attendance is optional for undergraduate students. Students will be assigned to present each week using a rotating schedule. </para>
+
+    <para id="id15467154"><title>Orders</title>
+Completed PO order forms should be placed in the PI’s box for signatures. I will sign and fill out the line with the account to be used for purchasing. </para>
+
+<para id="phone"><title>Phone Numbers</title>
+  <list id="phonelist" list-type="bulleted">
+    <item>Dr. Drezek’s office number: </item>
+    <item>Dr. Drezek’s cell phone:</item>
+    <item>E102 office phone:</item>
+    <item>E103 office phone:</item>
+    <item>E104 office phone:</item>
+
+  </list>
+</para>
+
+    <para id="id15634140"><title>Publication</title>
+Work on a project is not complete until the study has been published in a peer-reviewed journal! Although productivity will vary from student to student, it is expected that a typical student will publish at least one first author paper per year. Submission of the first peer-reviewed paper should occur prior to taking the PhD oral exam so that the paper may be included as an appendix to the proposal.</para>
+    <para id="id3650512">When you have a new paper published please follow the procedures for adding that paper to our lab resources. </para>
+    <para id="id16414904"><title>Protocol for New Papers</title>
+    The Author is Responsible for:
+<list id="id16988917" list-type="enumerated">
+
+    <item>Informing the webmaster to have paper added to the web. </item>
+    <item>Uploading a copy to our Owlspace site. *Lab Outputs--&gt;Papers--&gt;Year
+    <note id="id4046209" type="Label with proper format"><label>Label with proper format</label>Last name of first author_Journal_Year_ #</note> (# refers to the volume or issue; if there is not a # add the month)</item>
+<item>Print a hard copy and put it in the appropriate Notebook for Lab Papers.</item>
+</list>
+</para>
+
+
+    <para id="id18596757"><title>Procrastination</title>Effective time management is arguably one of the most important predictors of future success. I strongly suggest working actively to develop skills in this area. </para>
+
+    <para id="id15566426"><title>Manuscript Review</title>Whether your career takes you to industry, government labs, or academia, as a PhD you will be involved in peer review of manuscripts submitted for publication. To gain skills in this area, occasionally you will be asked to co-review (with the PI) manuscripts submitted for publication which our lab has been asked to review. As you become an older graduate student and more known in the field, it is likely that you will independently review manuscripts as well (manuscripts will be sent directly for you for review rather than first coming to the PI). It is of utmost importance that the content of manuscripts under consideration for publication remain confidential!!! It is not appropriate under any circumstances to discuss a paper that our lab is reviewing with *anyone* outside of the lab. A review should briefly summarize the content of the paper, recommend for or against publication, discuss the strengths and weaknesses of the paper, and contain a detailed list of specific changes recommended before publication. Before submitting a review to me, I expect you to first have your review critiqued by at least one other group member (your pick). After compiling a final review, the the review will be submitted to the journal in the names of both the reviewer and the PI. This allows the student to add the journal to the reviewing section of his or her CV.</para>
+
+    <para id="id18053283"><title>Safety</title>All students must document that they have received all required safety training BEFORE they begin working in the laboratory. All students and visitors must review the Drezek Lab Safety power point.</para>
+
+    <para id="id17226888"><title>Security</title>Doors should NEVER be left unlocked if no one is in the room. This applies to both student offices and the lab.</para>
+
+    <para id="id14758733"><title>Shipping</title>Our shipping address is:</para>
+
+
+    <para id="id13733217"><title>Software</title>Do not install illegal versions of software on laboratory computers. If you have any specific software needs for your projects, please let me know your needs and order the necessary software. MATLAB is available for free from Rice Engineering IT division. </para>
+    <para id="id4031471">General Software
+    <list id="id18055741" list-type="bulleted">
+<item>Make a back up copy CD of software</item>
+    <item>Add original CD, copy of original CD, installation codes, and manual to lab  software notebook (or give to Marlena to make back ups and add to notebook)</item>
+    <item>Record CD and installation codes on Lab Software Table of Contents</item>
+    <item>Label sticker and put on CD when adding CD to binder</item>
+</list></para>
+
+    <para id="specific">Specific Software: assigned to specific individuals
+<list id="speclist" list-type="bulleted">
+    <item>Keep back up copy of installation CD (the originals should be stored in the lab  software notebook)</item>
+    <item>Keep copy of installation codes, hardware keys, and manuals</item>
+</list></para>
+    <note id="id19376255">It is important we keep accurate records of what the lab has purchased.  Remember you can check out Office CDs from the BioE office and have  MATLAB installed by Rice IT.</note>
+
+    <para id="id18289165"> Assigned Software
+<list id="assigned" list-type="bulleted">
+    <item>Maestro Imaging Software (Jiantang)</item>
+    <item>TracePro (Ying)</item>
+    <item>XFDTD (Ying)</item>
+    <item>Zemax (Jiantang)</item>
+    <item>SVM/statistical software/DTREG (Ben)</item>
+</list>
+</para>
+
+    <para id="id19084231"><title>Travel</title>During your time as a graduate student you may have the opportunity to travel to conferences. When you make plans for traveling (including flights/conference registration/hotel) and charge the lab credit card in advance please email the lab administrator (Marlena) and our lab accountant (Valda) this information. </para>
+
+    <para id="id4798490">Other travel procedures include:
+    <list id="id18533057" list-type="bulleted">
+<item>*TV Envelope must be completed within 30 days of trip*</item>
+    <item><label>Conference Registration</label>Use PO form and lab credit card.</item>
+    <item><label>Airplane Tickets</label>Can use personal credit card or lab credit card.
+
+    <list id="id16101383" list-type="enumerated"><title>If using lab credit card for charging flights</title>
+    <item>When you are ready to book a flight: Email Marlena the flight details: <emphasis>Date, City, Total amount, and Account (Rice account)</emphasis></item>
+    <item>Marlena records flight information on a spread sheet: Marlena emails the person it is OK to purchase flight (on lab credit card)
+    <note id="id9931084">Do not purchase travel on lab credit card until you receive the OK   to purchase</note></item>
+    <item>If you do not follow this procedure, then you will need to use your   personal credit card and then be reimbursed from Rice for travel. </item>
+    <item>4. The traveler still needs to complete the appropriate paperwork and TV   envelope in a timely manner. </item>
+</list></item>
+
+    <item><label>Hotel Accomodations</label>Use personal credit card. At check-in give hotel the  Tax Exemption form.</item>
+    <item><label>Parking/Taxi charges</label>Use personal credit card.
+    <note id="id14612177">*Keep all original receipts. For personal credit card charges complete the back side of the TV envelope. Rice will reimburse you.</note></item>
+    <item><label>Food</label>Per diem.
+<note id="id20167427">Be sure to note “Add food per diem for # of days” on TV envelope.</note></item>
+    <item><label>Mileage Reimbursement for Use of Personal Vehicle</label>The current mileage rate is available on the Payment Solutions website. (<link url="http://www.payment.rice.edu/resources.cfm?doc_id=9555">http://www.payment.rice.edu/resources.cfm?doc_id=9555</link>)</item>
+   
+    <item><label>Business Mileage Reimbursement Rates</label>
+<list id="howmanysublists" list-type="bulleted">
+<item>January 1, 2008 through December 31, 2008</item>
+    <item>The business mileage reimbursement rate is $.505 per mile.</item>
+    <item><label># of Miles</label>(need to multiply by 2 if it is return trip)</item>
+    <item>Rice to IAH: 23.4 </item>
+    <item>Rice to Hobby: 12.5 </item>
+    <item><label>Total to be Reimbursed</label></item>
+    <item>Rice/IAH: (23.4*2) * (.505) = $23.63 </item>
+    <item>Rice/Hobby: (12.5 *2) * (.505) = $12.63 </item>
+</list>
+</item>
+
+</list>
+</para>
+
+    <para id="id18192922"><title>Vacation</title>Students are employed full time in the lab beginning on January 1 of the first year of graduate school. Per departmental policy, two weeks of vacation days per year are allowed. Typically, this vacation will be used during the winter holidays, Spring Break, or summer. Vacations must be scheduled and approved well in advance by the PI. I realize that if your home country is not the US, it may be preferable to take longer vacations at less frequent intervals. This is generally not a problem but again must be cleared in advance.</para>
+
+    <para id="id16899988"><title>Virus Software</title>All lab computers should be running virus checking software at all times. Copies of McAfee can be downloaded for free from the Rice distribution webpage. </para>
+
+    <para id="id17241667"><title>Weekly Email Updates</title>All graduate students are required to send a weekly progress report by the end of the day of Friday. The report should discuss results from the past week and plans for the following week. The purpose of these reports is to improve the quality of your scientific writing through regular practice and to provide me a means to keep track for your research progress. The weekly update need not be formal or long and should require less than 1 hr per week of your time. </para>
+
+    <para id="id16425742"><title>Work Hours</title>Beginning on January 1 of the first year, graduate students are full-time paid employees of the laboratory. Specific hours are not required, and accomplishments are far more important than the number of hours worked. However, the majority of the work time should coincide with normal business hours. Obtaining a PhD does not at all correspond to spending a certain number of years spending time in a lab. In general, it is my expectation that a hard-working student who enters the lab with a bachelor’s degree can complete all of the requirements within approximately a 4 - 5 year period. This period may be somewhat shorter if the student already has a master’s degree or is a MD/PhD student who has already completed a number of courses. The period may be longer depending on the rate of progress toward research goals. </para>
+  </content>
+</document>
